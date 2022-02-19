@@ -18,18 +18,18 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "X-FaaBotོ"
-global.ownername= "ᴹᴿ᭄ X-Faaོ ×፝֟͜×"
+global.botname = "VIP_BOT"
+global.ownername= "Wibuu×፝֟͜×"
 global.myweb ="https://kampret.monyenyoo.repl.co/"
 global.youtube = "https://youtube.com/channel/UCo0r7TbSLOmjPktkzdDMU1Q"
 global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "6285704682918"
-global.ownernomerr = "+6285704682918"
+global.ownernomer = "6282352239289"
+global.ownernomerr = "+6282352239289"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285704682918","6285704682918","6285704682918"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© X-Faa-Mdོ' //sticker wm
+global.owner = ["6282352239289","6285754058907","6282352239289"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© VIP_BOT' //sticker wm
 global.author = 'Di Buat Oleh Alfa' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -40,7 +40,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, JGN LUPA BILANG MAKASIH KON... ',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
